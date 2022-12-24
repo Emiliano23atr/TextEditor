@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jd/Área de Trabalho/TextEditor/TextEditor.csproj": {}
+    "/home/jd/Área de Trabalho/New Folder/TextEditor.csproj": {}
   },
   "projects": {
-    "/home/jd/Área de Trabalho/TextEditor/TextEditor.csproj": {
+    "/home/jd/Área de Trabalho/New Folder/TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jd/Área de Trabalho/TextEditor/TextEditor.csproj",
+        "projectUniqueName": "/home/jd/Área de Trabalho/New Folder/TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "/home/jd/Área de Trabalho/TextEditor/TextEditor.csproj",
+        "projectPath": "/home/jd/Área de Trabalho/New Folder/TextEditor.csproj",
         "packagesPath": "/home/jd/.nuget/packages/",
-        "outputPath": "/home/jd/Área de Trabalho/TextEditor/obj/",
+        "outputPath": "/home/jd/Área de Trabalho/New Folder/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jd/.nuget/NuGet/NuGet.Config"

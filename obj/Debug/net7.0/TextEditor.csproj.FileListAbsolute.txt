@@ -13,3 +13,18 @@
 /home/jd/Área de Trabalho/TextEditor/obj/Debug/net7.0/TextEditor.pdb
 /home/jd/Área de Trabalho/TextEditor/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
 /home/jd/Área de Trabalho/TextEditor/obj/Debug/net7.0/ref/TextEditor.dll
+/home/jd/Área de Trabalho/New Folder/bin/Debug/net7.0/TextEditor
+/home/jd/Área de Trabalho/New Folder/bin/Debug/net7.0/TextEditor.deps.json
+/home/jd/Área de Trabalho/New Folder/bin/Debug/net7.0/TextEditor.runtimeconfig.json
+/home/jd/Área de Trabalho/New Folder/bin/Debug/net7.0/TextEditor.dll
+/home/jd/Área de Trabalho/New Folder/bin/Debug/net7.0/TextEditor.pdb
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/TextEditor.csproj.AssemblyReference.cache
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/TextEditor.AssemblyInfoInputs.cache
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/TextEditor.AssemblyInfo.cs
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/TextEditor.dll
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/refint/TextEditor.dll
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/TextEditor.pdb
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/ref/TextEditor.dll
