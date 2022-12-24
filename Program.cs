@@ -5,10 +5,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        menu();
+        Menu();
     }
 
-    static void menu()
+    static void Menu()
     {
         Console.Clear();
         Console.WriteLine("O que você deseja fazer?");
@@ -29,7 +29,7 @@ class Program
                 Editar();
                 break;
             default:
-                menu();
+                Menu();
                 break;    
         }
     }
@@ -54,7 +54,7 @@ class Program
         }
         while(Console.ReadKey().Key != ConsoleKey.Escape);
 
-        Console.WriteLine(text);
+        Salvar(text);
 
     }
 
@@ -68,6 +68,10 @@ class Program
         {
             file.Write(text);
         }
+
+        Console.WriteLine($"Arquivo {path} salvo com sucesso!");
+        Console.ReadLine();
+        Menu();
     }
 
 }
